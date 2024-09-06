@@ -4,7 +4,7 @@ console.log('Hello, world');
 
 var student ={
     studentId : 1,
-    studentName : "John",
+    studentName : "Shyam",
     studentAge : 20,
     city : "NY"
 }
